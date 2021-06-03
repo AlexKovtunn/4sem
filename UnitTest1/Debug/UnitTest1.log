@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+     Создается библиотека D:\АИСД\курсач\kyrsovaya\Debug\UnitTest1.lib и объект D:\АИСД\курсач\kyrsovaya\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall EdKarp::readList(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?readList@EdKarp@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::first(void)" (?first@UnitTest1@1@QAEXXZ).
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall EdKarp::MaxFlow(void)" (?MaxFlow@EdKarp@@QAEHXZ) в функции "public: void __thiscall UnitTest1::UnitTest1::first(void)" (?first@UnitTest1@1@QAEXXZ).
+D:\АИСД\курсач\kyrsovaya\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 2
